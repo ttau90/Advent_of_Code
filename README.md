@@ -1,2 +1,2 @@
-# AoC2022
-Advent of code 2020
+# Advent of Code
+Advent of Code
